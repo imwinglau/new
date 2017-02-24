@@ -3,4 +3,5 @@
 <script type="text/javascript">
     DD_belatedPNG.fix('*');
 </script>
+666666
 <![endif]-->
